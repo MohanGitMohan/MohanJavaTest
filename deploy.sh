@@ -1,3 +1,3 @@
 #!/bin/bash
-scp date.out ubuntu@162.150.5.163
+scp date.out clduser@162.150.5.163:.
 echo "Deploy successful"
